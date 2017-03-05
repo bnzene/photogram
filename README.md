@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# photogram
+This is a practice exercise, following this [Devwalks](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/) tutorial to build a clone of Instagram.
+The aim is to expand my comfort zone by getting more practice with building functioning Rails apps, as well as user authentication and frontend styling with HTML/CSS/Bootstrap.
